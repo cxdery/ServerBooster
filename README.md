@@ -51,3 +51,5 @@ Thank you for using YellowBoost! Enjoy your boosted server!
 ---
 
 *Disclaimer: Use this tool responsibly and ensure you have the necessary permissions to perform actions on your server.*
+
+![Design ohne Titel (19)](https://github.com/cxdery/ServerBooster/assets/174323091/86a58ed6-da36-4922-b42f-23f9aa6a1ce7)
